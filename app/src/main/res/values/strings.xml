@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps Bearing Training</string>
+
+    <string name="api_key_map">AIzaSyBT5vDPb6NeNKntzNyx_8Gxdqb3laEy-Ns</string>
+</resources>
